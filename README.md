@@ -104,3 +104,7 @@ artwork only, i had some difficulties there.
 - I received inspiration for this project from a person called samuel day
   His instagram (https://www.instagram.com/herdl/) i linked his instagram because i did 
   not get inspiration from just one of his work.
+  
+  ### Link
+  
+  - https://kirdesh.github.io/Assignment-1/
